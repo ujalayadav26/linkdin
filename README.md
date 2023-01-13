@@ -1,3 +1,3 @@
 # linkedin
 link 
-https://navneetprajapati26.github.io/linkedin/
+https://ujalayadav26.github.io/linkdin/
